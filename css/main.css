@@ -164,3 +164,80 @@ body
 	background-color: black;
 }
 
+
+/* Contact Page Style Ends Here...*/
+
+/* About Page Style start here..*/
+
+.aboutRowOne
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+
+.aboutTitle
+{
+	width: 67px;
+	height: 402px;
+	background-color: black;
+	margin-top: 240px;
+	margin-left: 100px;
+}
+
+.aboutTitle p
+{
+	font-family: Arial;
+	font-size: 30px;
+	color: white;
+	line-height: 40px;
+	text-align: center;
+	margin-top: 55%;
+}
+
+.circleImage
+{
+	width: 498px;
+	height: 498px;
+	border-radius: 250px;
+	background-color: black;
+
+	margin-top: 240px;
+	margin-left: 550px;
+
+}
+
+.circleImage p
+{
+	font-family: Arial;
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	margin-top: 45%;
+}
+
+.aboutPara
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+
+	width: 1721px;
+	height: 902px;
+	background-color: black;
+
+	margin-top: 140px;
+	margin-left: 100px;
+}
+
+.aboutPara p
+{
+	font-family: Arial;
+	font-size: 30px;
+	color: white;
+	text-align: center;
+
+	margin-top: 500px;
+
+}
+/* About Page Style ends here..*/
