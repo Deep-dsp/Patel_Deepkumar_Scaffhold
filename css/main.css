@@ -1,0 +1,166 @@
+body
+{
+	max-width: 1920px;
+	margin: 0px;
+}
+
+.navBar
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+
+.logo
+{
+	width: 151px;
+	height: 102px;
+	background-color: black;
+	margin-left: 100px;
+	margin-top: 100px;
+}
+
+.logo p
+{
+	font-family: Arial;
+	font-size: 30px;
+	color: white;
+	/*font-weight: bold;*/
+	margin-top: 25%;
+	text-align: center;
+}
+
+.navMenu
+{
+	width: 1019px;
+	height: 102px;
+	background-color: black;
+	margin-top: 100px;
+	margin-left: 530px;
+}
+
+.navMenu p
+{
+	font-family: Arial;
+	font-size: 30px;
+	color: white;
+	margin-top: 3.5%;
+	/*font-weight: bold;*/
+	text-align: center;
+}
+
+.title
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.getInTouch
+{
+	width: 402px;
+	height: 67px;
+	background-color: black;
+
+	margin-top: 90px;
+}
+
+.getInTouch p
+{
+	font-family: Arial;
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	margin-top: 4.5%;
+}
+
+.secondRow
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+
+.leftBox
+{
+	width: 529px;
+	height: 570px;
+	background-color: black;
+	margin-left: 100px;
+	margin-top: 220px;
+}
+
+.leftBox p, .rightBox p
+{
+	font-family: Arial;
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	margin-top: 50%
+}
+
+.rightBox
+{
+	width: 842px;
+	height: 920px;
+	background-color: black;
+	margin-left: 280px;
+	margin-top: 40px;
+}
+
+.address
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+
+	width: 1651px;
+	height: 398px;
+	background-color: black;
+	margin-left: 100px;
+	margin-top: 130px;
+}
+
+.addPanel
+{
+
+	width: 531px;
+	height: 398px;
+	background-color: lightgrey;
+	margin-left: 10px;
+}
+
+.addPanel p
+{
+	font-family: Arial;
+	font-size: 30px;
+	color: black;
+	text-align: center;
+	margin-top: 35%;
+}
+
+.gpsPanel
+{
+	width: 842px;
+	height: 398px;
+	background-color: lightgrey;
+	margin-left: 280px;
+}
+
+.gpsPanel p
+{
+	font-family: Arial;
+	font-size: 30px;
+	color: black;
+	text-align: center;
+
+	margin-top: 25%;
+}
+
+.foot
+{
+	height: 53px;
+	margin-top: 40px;
+	background-color: black;
+}
+
